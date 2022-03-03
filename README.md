@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dk72055
-- 👀 I’m interested in AI-sequeity
+- 👀 I’m interested in AI-sequrity
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me from google
