@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dk72055
+- 👋 Hi, I’m @dhananjay Khandual 
 - 👀 I’m interested in AI-sequrity
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me from google
 
